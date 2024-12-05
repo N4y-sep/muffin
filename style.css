@@ -36,12 +36,12 @@
             flex-direction: row;
             align-items: center;
             justify-content: space-between;
-            max-width: 800px;
+            max-width: 9000px;
             width: 100%;
         }
 
         .content img {
-            width: 150px;
+            width: 250px;
             height: auto;
             border-radius: 10px;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
